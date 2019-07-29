@@ -8,5 +8,4 @@
 │   │   ├── index.js
 │   │   └── index.test.js
 │   └── ...
-│
 ```
