@@ -1,6 +1,9 @@
 <h1 align="center">Online-Judge</h1>
 
-### Includes what systems now?
+### What language is included?
+- [JavaScript](https://zh.wikipedia.org/wiki/JavaScript)
+
+### What system is included?
 - [Codewars](https://www.codewars.com/)
 
 ### Repository Structure
