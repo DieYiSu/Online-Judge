@@ -12,7 +12,6 @@ There's a folder for each kata nested in its own kyu
 ```ascii
 ├── kyu/
 │   ├── folder/
-│   │   ├── index.js
-│   │   └── index.test.js
+│   │   └── index.js
 │   └── ...
 ```
