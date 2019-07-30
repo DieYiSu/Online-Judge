@@ -2,6 +2,7 @@
 
 ### What language is included?
 - [JavaScript](https://zh.wikipedia.org/wiki/JavaScript)
+- [Python](https://zh.wikipedia.org/wiki/Python)
 
 ### What system is included?
 - [Codewars](https://www.codewars.com/)
