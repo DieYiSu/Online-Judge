@@ -1,0 +1,1 @@
+const setAlarm = (x, y) => x == true && y == false ? true : false;

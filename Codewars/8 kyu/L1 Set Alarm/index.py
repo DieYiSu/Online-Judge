@@ -1,0 +1,1 @@
+def set_alarm(x, y): return x and not y
