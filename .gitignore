@@ -2,3 +2,5 @@
 
 # mac os
 *.DS_Store
+
+.idea/
